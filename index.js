@@ -1,5 +1,3 @@
-// e259893db0a54b5188d7d8fbd0dae26b
-// http://newsapi.org/v2/top-headlines?sources=bbc-news&apiKey=e259893db0a54b5188d7d8fbd0dae26b
 const sources = 'bbc-news';
 const apiKey = 'e259893db0a54b5188d7d8fbd0dae26b';
 const newsContainer = document.getElementById('newsContainer');
